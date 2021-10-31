@@ -26,6 +26,16 @@ Servidor e Postman: http://localhost:5000/
 React Url: http://localhost:3000/
 ```
 #
+#### Atenção!! Pode ocorrer um erro ao mudar o pojeto de pasta, o erro de "react-script", o servidor do react não roda, para arrumar basta acessar a pasta client no no proprio terminal do VS Code e fazer uma instalação bem simples, como esta no comando abaixo.
+```shell script
+\online-schedule\client>npm install react-scripts --save
+```
+#### Após isso volte para a pasta raiz e siga o comando normal de inicialição do projeto.
+```shell script
+\online-schedule>npm run dev
+```
+
+#
 #### IMAGENS DO PROJETO:
 ![paginainicial](https://user-images.githubusercontent.com/86630036/139600305-641bc2ea-52bb-462f-8f26-ec721839a173.png)
 

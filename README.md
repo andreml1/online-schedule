@@ -19,7 +19,7 @@ npm run dev
 ```
 ###### Obs: Com este comando, tanto o back end quanto o front end são inicializados!
 
-#### Caminhos para: Banco de dados, servidor e porjeto, respectivamente:
+#### Caminhos para: Banco de dados, servidor e projeto, respectivamente:
 ```shell script
 MongoDB: http://localhost:27017/
 Servidor e Postman: http://localhost:5000/

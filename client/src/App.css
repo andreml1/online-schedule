@@ -1,0 +1,9 @@
+
+
+.image {
+    background-image: url(./assets/img/wp4k.jpg);
+    width: 100%;
+    height: 97%;
+    background-size: cover;
+}
+

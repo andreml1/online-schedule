@@ -13,7 +13,7 @@
 - Postman
 - Visual Studio Code
 
-##### Digite este comando abaixo no terminal para inicializar o projeto:
+##### Digite este comando abaixo no terminal do VS Code para inicializar o projeto:
 ```shell script
 npm run dev
 ```
